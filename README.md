@@ -26,4 +26,4 @@ This is a **group project** made during the 16th edition of ***Polihack***. The 
 ***Popescu Ciprian*** - back-end developer,
 ***Crisciu Dario-Alexandru*** - front-end developer.
 
-### Access the website at https://bogdan-andrei-pitarca.github.io/Butterf1y/
+### Access the website at [https://bogdan-andrei-pitarca.github.io/Butterf1y/](https://ciprian-popescu-03.github.io/Butterf1y/)
